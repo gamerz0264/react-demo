@@ -10,6 +10,9 @@ function App() {
       <h1>React Rough Project Demo</h1>
       <Button variant='contained'>Sample Button</Button>
       <h2>Hello World</h2>
+
+      <Button>Button 2</Button>
+      <Button>Button 3</Button>
     </>
   )
 }
