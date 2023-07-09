@@ -13,6 +13,8 @@ function App() {
 
       <Button>Button 2</Button>
       <Button>Button 3</Button>
+
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, laudantium rem quibusdam recusandae facilis id necessitatibus iste excepturi nobis sint.</p>
     </>
   )
 }
